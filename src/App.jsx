@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="h-screen w-full bg-white text-gray-900 p-0">
       <div className="w-full h-full p-6">
-        <h1 className="text-2xl font-semibold mb-4 text-center ">
+        <h1 className="text-2xl font-semibold mb-4 text-center">
           Nota do Aluno
         </h1>
         <div className="space-y-4 max-w-sm mx-auto">
